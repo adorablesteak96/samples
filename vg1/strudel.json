@@ -1,11 +1,12 @@
 {
   "_base": "https://raw.githubusercontent.com/adorablesteak96/samples/master/vg1/",
-  "vg1": ["Fle_RF001.wav", "Fle_RF002.wav", "Fle_RF003.wav","Fle_RF004.wav", 
-"Fle_RF005.wav","Flw_RF001.wav", "Flw_RF005.wav", "Flw_RF006.wav", "Hit_RF001.wav", "Hit_RF002.wav", 
-"Hit_RF003.wav", "Hit_RF004.wav", "Hit_RF005.wav", "Hit_RF006.wav", "Hit_RF007.wav", "Hit_RF008.wav", 
-"Hit_RF009.wav", "Hit_RF010.wav","Hit_RF011.wav", "Hit_RF012.wav", "Hit_RF013.wav", "Hit_RF014.wav", 
-"Hlo_RF000d.wav", "Hlo_RF000e.wav", "Hlo_RF005.wav", "Hlo_RF012.wav", "Hlo_RF013.wav", "Hlo_RF017.wav", 
-"Hlo_RF020.wav", "Hlo_RF043.wav", "Hlo_RF049.wav", "Hlo_RF054.wav", "Hlo_RF057.wav", "Hlo_RF059.wav", 
-"Hlo_RF073.wav", "Hlo_RF118.wav", "Hlo_RF133.wav", "Idl_RF001.wav", "Srv_RF006.wav", 
-"AZ6_Lexcanium_9716.wav", "AZ6_Lexcanium_8106.wav", "AZ6_Lexcanium_8644.wav", "AZ6_Lexcanium_8659.wav"]
+  "vg1": ["Fle_RF001.mp3", "Fle_RF002.mp3", "Fle_RF003.mp3","Fle_RF004.mp3", 
+"Fle_RF005.mp3","Flw_RF001.mp3", "Flw_RF005.mp3", "Flw_RF006.mp3",
+"Hlo_RF000d.mp3", "Hlo_RF000e.mp3", "Hlo_RF005.mp3", "Hlo_RF012.mp3", "Hlo_RF013.mp3", "Hlo_RF017.mp3", 
+"Hlo_RF020.mp3", "Hlo_RF043.mp3", "Hlo_RF049.mp3", "Hlo_RF054.mp3", "Hlo_RF057.mp3", "Hlo_RF059.mp3", 
+"Hlo_RF073.mp3", "Hlo_RF118.mp3", "Hlo_RF133.mp3", "Idl_RF001.mp3", "Srv_RF006.mp3", 
+"AZ6_Lexcanium_9716.mp3", "AZ6_Lexcanium_8106.mp3", "AZ6_Lexcanium_8644.mp3", "AZ6_Lexcanium_8659.mp3"],
+ "vg1hit": ["Hit_RF001.mp3", "Hit_RF002.mp3", 
+"Hit_RF003.mp3", "Hit_RF004.mp3", "Hit_RF005.mp3", "Hit_RF006.mp3", "Hit_RF007.mp3", "Hit_RF008.mp3", 
+"Hit_RF009.mp3", "Hit_RF010.mp3", "Hit_RF011.mp3", "Hit_RF012.mp3", "Hit_RF013.mp3", "Hit_RF014.mp3"]
 }

@@ -10,7 +10,7 @@
          <ablFR:items>
             <rdf:Bag>
                <rdf:li rdf:parseType="Resource">
-                  <ablFR:filePath>TR808S.wav</ablFR:filePath>
+                  <ablFR:filePath>TR808S.mp3</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
                         <rdf:li>4</rdf:li>
@@ -18,7 +18,7 @@
                   </ablFR:colors>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
-                  <ablFR:filePath>909LtS.wav</ablFR:filePath>
+                  <ablFR:filePath>909LtS.mp3</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
                         <rdf:li>4</rdf:li>
