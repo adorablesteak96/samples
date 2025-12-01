@@ -9,5 +9,6 @@
        , "Toms/RoomT3.wav ", "Toms/RoomT1.wav ", "Toms/BrusT4.wav ", "Toms/BrushT2.wav "],
   "pc": [ "FX/Snaps.wav ", "FX/Chink.wav ", "Percussions/808Clv.wav ", "Percussions/808Marc.wav ",
           "Percussions/SlBell.wav ", "Percussions/WhislS.wav ", "Percussions/WhislL.wav ", "Percussions/Woodblk.wav "],
+  "cy": ["Cymbal/BrRidC.wav", "Cymbal/ChinaC.wav", "Cymbal/CrachC1.wav", "Cymbal/CrachC2.wav", "Cymbal/RideBlC.wav", "Cymbal/RideC.wav", "Cymbal/SplshC.wav"],
   "fx": [ "FX/RevCym.wav ", "FX/RevClp.wav ", "FX/RevKik.wav "]
 }
