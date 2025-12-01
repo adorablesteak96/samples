@@ -1,13 +1,13 @@
 {
   "_base": "https://raw.githubusercontent.com/adorablesteak96/samples/master/DR660/",
-  "bd": [ "Kick/Soft K.mp3 ", "Kick/TR808K.mp3 ", "Kick/808GtK.mp3 ", "Kick/ShellK.mp3 ", "Kick/BreatK.mp3 ", "FX/HiQ.mp3 "],
-  "sd": [ "Snare/TR808S.mp3 ", "Snare/909LtS.mp3 ", "Snare/BriteS.mp3 ", "Snare/BrSlS2.mp3 ", "Snare/GlassS.mp3 "],
-  "cp": [ "Percussions/808Clap.mp3 ", "FX/DncClp.mp3 ", "FX/GlsSht.mp3 "],
-  "hh": [ "HiHat/808CHH.mp3 ", "HiHat/BrsCHH.mp3 ", "HiHat/PopCHH.mp3 "],
-  "oh": [ "HiHat/808OHH.mp3 ", "HiHat/BrsOHH.mp3 ", "HiHat/PopOHH.mp3 "],
-  "tm": [ "Toms/808Tom.mp3 ", "Toms/RealT4.mp3 ", "Toms/Dry T3.mp3 ", "Toms/Dry T1.mp3 "
-       , "Toms/RoomT3.mp3 ", "Toms/RoomT1.mp3 ", "Toms/BrusT4.mp3 ", "Toms/BrushT2.mp3 "],
-  "pc": [ "FX/Snaps.mp3 ", "FX/Chink.mp3 ", "Percussions/808Clv.mp3 ", "Percussions/808Marc.mp3 ",
-          "Percussions/SlBell.mp3 ", "Percussions/WhislS.mp3 ", "Percussions/WhislL.mp3 ", "Percussions/Woodblk.mp3 "],
-  "fx": [ "FX/RevCym.mp3 ", "FX/RevClp.mp3 ", "FX/RevKik.mp3 "]
+  "bd": [ "Kick/Soft K.wav ", "Kick/TR808K.wav ", "Kick/808GtK.wav ", "Kick/ShellK.wav ", "Kick/BreatK.wav ", "FX/HiQ.wav "],
+  "sd": [ "Snare/TR808S.wav ", "Snare/909LtS.wav ", "Snare/BriteS.wav ", "Snare/BrSlS2.wav ", "Snare/GlassS.wav "],
+  "cp": [ "Percussions/808Clap.wav ", "FX/DncClp.wav ", "FX/GlsSht.wav "],
+  "hh": [ "HiHat/808CHH.wav ", "HiHat/BrsCHH.wav ", "HiHat/PopCHH.wav "],
+  "oh": [ "HiHat/808OHH.wav ", "HiHat/BrsOHH.wav ", "HiHat/PopOHH.wav "],
+  "tm": [ "Toms/808Tom.wav ", "Toms/RealT4.wav ", "Toms/Dry T3.wav ", "Toms/Dry T1.wav "
+       , "Toms/RoomT3.wav ", "Toms/RoomT1.wav ", "Toms/BrusT4.wav ", "Toms/BrushT2.wav "],
+  "pc": [ "FX/Snaps.wav ", "FX/Chink.wav ", "Percussions/808Clv.wav ", "Percussions/808Marc.wav ",
+          "Percussions/SlBell.wav ", "Percussions/WhislS.wav ", "Percussions/WhislL.wav ", "Percussions/Woodblk.wav "],
+  "fx": [ "FX/RevCym.wav ", "FX/RevClp.wav ", "FX/RevKik.wav "]
 }
