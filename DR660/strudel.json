@@ -1,13 +1,13 @@
 {
   "_base": "https://raw.githubusercontent.com/adorablesteak96/samples/master/DR660/",
-  "kick": [ "Kick/Soft K.wav ", "Kick/TR808K.wav ", "Kick/808GtK.wav ", "Kick/ShellK.wav ", "Kick/BreatK.wav ", "FX/HiQ.wav "],
-  "snare": [ "Snare/TR808S.wav ", "Snare/909LtS.wav ", "Snare/BriteS.wav ", "Snare/BrSlS2.wav ", "Snare/GlassS.wav "],
-  "clap": [ "Percussions/808Clap.wav ", "FX/DncClp.wav ", "FX/GlsSht.wav "],
+  "bd": [ "Kick/Soft K.wav ", "Kick/TR808K.wav ", "Kick/808GtK.wav ", "Kick/ShellK.wav ", "Kick/BreatK.wav ", "FX/HiQ.wav "],
+  "sd": [ "Snare/TR808S.wav ", "Snare/909LtS.wav ", "Snare/BriteS.wav ", "Snare/BrSlS2.wav ", "Snare/GlassS.wav "],
+  "cp": [ "Percussions/808Clap.wav ", "FX/DncClp.wav ", "FX/GlsSht.wav "],
   "hh": [ "HiHat/808CHH.wav ", "HiHat/BrsCHH.wav ", "HiHat/PopCHH.wav "],
   "oh": [ "HiHat/808OHH.wav ", "HiHat/BrsOHH.wav ", "HiHat/PopOHH.wav "],
-  "tom": [ "Toms/808Tom.wav ", "Toms/RealT4.wav ", "Toms/Dry T3.wav ", "Toms/Dry T1.wav "
+  "tm": [ "Toms/808Tom.wav ", "Toms/RealT4.wav ", "Toms/Dry T3.wav ", "Toms/Dry T1.wav "
        , "Toms/RoomT3.wav ", "Toms/RoomT1.wav ", "Toms/BrusT4.wav ", "Toms/BrushT2.wav "],
-  "perc": [ "FX/Snaps.wav ", "FX/Chink.wav ", "Percussions/808Clv.wav ", "Percussions/808Marc.wav ",
+  "pc: [ "FX/Snaps.wav ", "FX/Chink.wav ", "Percussions/808Clv.wav ", "Percussions/808Marc.wav ",
           "Percussions/SlBell.wav ", "Percussions/WhislS.wav ", "Percussions/WhislL.wav ", "Percussions/Woodblk.wav "],
   "fx": [ "FX/RevCym.wav ", "FX/RevClp.wav ", "FX/RevKik.wav "]
 }
