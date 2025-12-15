@@ -1,7 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/adorablesteak96/samples/master/vg2/",
-  "vg2": [
-"2_1_M_Alice.ogg",
+  "vg2": ["2_1_M_Alice.ogg",
 "3_1_6_E_Alice.ogg",
 "3_1_6_F_Alice.ogg",
 "3_1_AF_1_Alice.ogg",
@@ -37,4 +36,4 @@
 "SP06_2_4_3_Faith_.ogg",
 "SP07_2_3_1_Faith_.ogg",
 "SP07_2_16_1_Faith_.ogg",
-"2_1_3_C_Alice.ogg",]}
+"2_1_3_C_Alice.ogg"]}
